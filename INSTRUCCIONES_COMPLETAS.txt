@@ -1,0 +1,176 @@
+================================================================================
+                    ZEROX v2.0 - INSTRUCCIONES COMPLETAS
+                        LA IA QUE TE HACE MILLONARIO
+================================================================================
+
+📋 ÍNDICE
+=========
+1. INSTALACIÓN (5 minutos)
+2. CONFIGURACIÓN (3 minutos)  
+3. EMPEZAR A GANAR DINERO
+4. HACER LA IA MÁS INTELIGENTE
+5. PREGUNTAS FRECUENTES
+6. SOLUCIÓN DE PROBLEMAS
+
+================================================================================
+1️⃣ INSTALACIÓN (5 minutos)
+================================================================================
+
+OPCIÓN A - SÚPER FÁCIL:
+------------------------
+1. Doble click en INSTALAR.bat
+2. Espera 5-10 minutos
+3. ¡LISTO!
+
+OPCIÓN B - MANUAL:
+------------------
+1. Instala Python 3.11+ desde www.python.org
+   IMPORTANTE: Marca ✅ "Add Python to PATH"
+2. Abre una terminal (CMD) en la carpeta ZEROX
+3. Escribe: pip install -r requirements.txt
+4. ¡LISTO!
+
+================================================================================
+2️⃣ CONFIGURACIÓN (3 minutos)
+================================================================================
+
+PASO 1 - CONSEGUIR API KEYS DE BITGET:
+---------------------------------------
+1. Ve a www.bitget.com
+2. Crea una cuenta (es gratis)
+3. Ve a tu perfil → API Management
+4. Click en "Create API"
+5. Configuración:
+   - API Name: ZEROX
+   - Permissions: ✅ Read ✅ Trade (NUNCA marques Withdraw)
+   - IP Address: Déjalo vacío
+6. Guarda las 3 claves que te da:
+   - API Key
+   - Secret Key  
+   - Passphrase
+
+PASO 2 - CONFIGURAR ZEROX:
+--------------------------
+1. Ejecuta ZEROX.bat
+2. Click en ⚙️ CONFIGURACIÓN
+3. Pega tus 3 claves de Bitget
+4. Ajusta:
+   - Capital inicial: 30€ mínimo (recomendado 100-500€)
+   - Agresividad: 5 (1=conservador, 10=agresivo)
+5. Click en GUARDAR
+
+================================================================================
+3️⃣ EMPEZAR A GANAR DINERO
+================================================================================
+
+1. Ejecuta ZEROX.bat
+2. Click en 💰 INVERTIR
+3. ¡YA ESTÁ! ZEROX empieza a operar automáticamente
+
+QUÉ VERÁS:
+-----------
+- Gráfico en tiempo real de tu capital
+- Operaciones activas (compras/ventas)
+- Ganancias del día/semana/mes
+- Chat con la IA (puedes preguntarle lo que quieras)
+
+COLORES:
+--------
+🟢 Verde = Ganancias
+🔴 Rojo = Pérdidas temporales (normal)
+🔵 Azul = Operaciones en curso
+🟡 Amarillo = Oportunidades detectadas
+
+================================================================================
+4️⃣ HACER LA IA MÁS INTELIGENTE (OPCIONAL)
+================================================================================
+
+ZEROX puede aprender de libros de trading:
+
+1. Click en 📚 BIBLIOTECA
+2. Arrastra libros de trading (PDF, EPUB, etc.)
+3. ZEROX los lee y aprende AUTOMÁTICAMENTE
+
+LIBROS RECOMENDADOS:
+--------------------
+- "Análisis Técnico de los Mercados" - John Murphy
+- "Trading en la Zona" - Mark Douglas
+- "El Inversor Inteligente" - Benjamin Graham
+- Cualquier libro de trading que encuentres
+
+¡Mientras más libros, más inteligente!
+
+================================================================================
+5️⃣ PREGUNTAS FRECUENTES
+================================================================================
+
+P: ¿Cuánto puedo ganar?
+R: Objetivo: 30€ → 10,000,000€ en 2-3 años
+   Típico: 20-50% mensual
+
+P: ¿Puedo perder dinero?
+R: Sí, como cualquier inversión. Por eso:
+   - Empieza con poco (30-100€)
+   - ZEROX tiene protecciones automáticas
+   - Nunca inviertas lo que no puedas perder
+
+P: ¿Necesito dejar el PC encendido?
+R: No, ZEROX funciona en la nube
+
+P: ¿Es legal?
+R: Totalmente legal, es trading automatizado
+
+P: ¿Qué criptos opera?
+R: Las top 100 por capitalización
+
+P: ¿Puedo retirar cuando quiera?
+R: Sí, desde Bitget en cualquier momento
+
+================================================================================
+6️⃣ SOLUCIÓN DE PROBLEMAS
+================================================================================
+
+PROBLEMA: "Python no encontrado"
+SOLUCIÓN: Instala Python desde www.python.org con "Add to PATH" marcado
+
+PROBLEMA: "Error al importar PyQt6"
+SOLUCIÓN: Ejecuta INSTALAR.bat o: pip install PyQt6
+
+PROBLEMA: "No se conecta a Bitget"
+SOLUCIÓN: Verifica tus API Keys en CONFIGURACIÓN
+
+PROBLEMA: "La ventana no se abre"
+SOLUCIÓN: 
+1. Abre CMD como administrador
+2. cd C:\ruta\a\ZEROX
+3. python main.py
+4. Mira qué error aparece
+
+PROBLEMA: "No hace operaciones"
+SOLUCIÓN: 
+- Verifica que tengas saldo en Bitget
+- Espera 5-10 minutos (analiza el mercado)
+- Revisa que el modo sea "REAL" no "SIMULACIÓN"
+
+================================================================================
+                            CONSEJOS PRO
+================================================================================
+
+1. EMPIEZA PEQUEÑO: Prueba con 30-100€ primero
+2. PACIENCIA: Algunos días perderás (normal)
+3. REINVIERTE: No retires todas las ganancias
+4. DIVERSIFICA: Cuando tengas ganancias, retira algo
+5. APRENDE: Usa el chat para entender qué hace ZEROX
+
+================================================================================
+                              SOPORTE
+================================================================================
+
+Email: soporte@zerox-ai.com
+Telegram: @zerox_support
+Web: www.zerox-ai.com
+
+================================================================================
+                    ¡BIENVENIDO A TU NUEVA VIDA!
+                      EL DINERO TRABAJA PARA TI
+================================================================================

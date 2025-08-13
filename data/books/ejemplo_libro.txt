@@ -1,0 +1,64 @@
+================================================================================
+                        EJEMPLO DE ESTRUCTURA DE LIBROS
+================================================================================
+
+Este archivo es solo un EJEMPLO. Los libros reales deben ser archivos .EPUB
+
+Para que ZEROX aprenda, necesitas colocar aquí libros REALES en formato EPUB.
+
+ESTRUCTURA RECOMENDADA:
+======================
+
+data/books/
+├── analisis_tecnico/
+│   ├── analisis_tecnico_de_los_mercados_financieros.epub
+│   ├── japanese_candlestick_charting_techniques.epub
+│   └── elliott_wave_principle.epub
+│
+├── psicologia_trading/
+│   ├── trading_en_la_zona_mark_douglas.epub
+│   ├── market_wizards.epub
+│   └── the_disciplined_trader.epub
+│
+├── estrategias/
+│   ├── day_trading_strategies.epub
+│   ├── swing_trading_for_dummies.epub
+│   └── scalping_strategies.epub
+│
+├── gestion_riesgo/
+│   ├── trade_your_way_to_financial_freedom.epub
+│   ├── money_management_strategies.epub
+│   └── position_sizing_guide.epub
+│
+└── criptomonedas/
+    ├── mastering_bitcoin.epub
+    ├── cryptocurrency_trading_strategies.epub
+    └── defi_and_the_future_of_finance.epub
+
+DÓNDE CONSEGUIR LIBROS:
+======================
+
+1. Amazon Kindle Store
+   - Muchos libros de trading están disponibles
+   - Puedes convertir de formato Kindle a EPUB
+
+2. Google Play Books
+   - Gran selección de libros técnicos
+   - Formato EPUB nativo
+
+3. Bibliotecas digitales
+   - Muchas bibliotecas ofrecen préstamo de ebooks
+
+4. Sitios especializados
+   - O'Reilly Media
+   - Packt Publishing
+   - Wiley Trading
+
+IMPORTANTE:
+===========
+- Solo usa libros que hayas adquirido legalmente
+- ZEROX funciona mejor con 5-10 libros de alta calidad
+- Los libros en español e inglés funcionan perfectamente
+- Evita PDFs escaneados, usa EPUBs de texto real
+
+¡Alimenta a ZEROX con conocimiento de calidad!

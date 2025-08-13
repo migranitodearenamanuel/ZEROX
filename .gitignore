@@ -1,18 +1,27 @@
-dist/
-build/
-Output/
-data/logs/
-data/models/cache_modelos/
+﻿# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
+
+# IDE
+.vscode/
+.idea/
+
+# Artefactos/build
+dist/
+build/
+Output/
+*.exe
+*.msi
+*.zip
+
+# Datos de Zerox
+data/logs/
+data/models/cache_modelos/
 *.onnx
 *.pt
 *.pth
-*.exe
-*.zip
-.vscode/
-.idea/
-.ipynb_checkpoints/
+Hugging Face/
+*.env

@@ -1,0 +1,52 @@
+================================================================================
+                    CÓMO EJECUTAR ZEROX.EXE
+================================================================================
+
+UBICACIÓN DEL EXE:
+==================
+El archivo ZEROX.exe está en: dist\ZEROX.exe
+
+CÓMO EJECUTAR:
+==============
+1. Ve a la carpeta "dist"
+2. Doble click en ZEROX.exe
+3. ¡Disfruta la interfaz FUTURISTA!
+
+SI NO FUNCIONA:
+===============
+1. Asegúrate de tener Windows 10/11 de 64 bits
+2. Instala Visual C++ Redistributable:
+   https://aka.ms/vs/17/release/vc_redist.x64.exe
+3. Ejecuta como Administrador (click derecho → Ejecutar como administrador)
+
+CARACTERÍSTICAS DEL EXE:
+========================
+✅ Interfaz CYBERPUNK futurista
+✅ Pantalla de inicio animada
+✅ Sin ventana de consola
+✅ Icono personalizado
+✅ ~800MB de tamaño (incluye todas las librerías)
+
+PROBLEMAS COMUNES:
+==================
+"Windows protegió su PC":
+- Click en "Más información"
+- Click en "Ejecutar de todos modos"
+- Es normal, Windows no reconoce el programa
+
+"Falta MSVCP140.dll":
+- Instala Visual C++ Redistributable (link arriba)
+
+"Se cierra inmediatamente":
+- Ejecuta ZEROX.bat en lugar del EXE para ver errores
+- Verifica que tienes las API Keys configuradas
+
+CREAR ACCESO DIRECTO:
+=====================
+1. Click derecho en ZEROX.exe
+2. Enviar a → Escritorio (crear acceso directo)
+3. Renombra el acceso como quieras
+
+================================================================================
+                    ¡DISFRUTA HACIENDO MILLONES!
+================================================================================
