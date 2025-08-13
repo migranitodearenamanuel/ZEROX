@@ -1,27 +1,19 @@
-﻿# Python
+@"
+dist/
+build/
+Output/
+data/logs/
+data/models/cache_modelos/
 __pycache__/
 *.pyc
 .venv/
 venv/
 .env
-
-# IDE
-.vscode/
-.idea/
-
-# Artefactos/build
-dist/
-build/
-Output/
-*.exe
-*.msi
-*.zip
-
-# Datos de Zerox
-data/logs/
-data/models/cache_modelos/
 *.onnx
 *.pt
 *.pth
-Hugging Face/
-*.env
+*.exe
+*.zip
+.vscode/
+.idea/
+"@ | Out-File -Encoding utf8 .gitignore
