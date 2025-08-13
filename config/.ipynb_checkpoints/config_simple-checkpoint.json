@@ -1,0 +1,36 @@
+{
+    "_comentario": "CONFIGURACIÓN DE ZEROX - EDITA SOLO LO NECESARIO",
+    
+    "_instrucciones": {
+        "paso1": "Consigue tus API Keys en www.bitget.com",
+        "paso2": "Pega las claves donde dice TU_CLAVE_AQUI",
+        "paso3": "Ajusta el capital inicial si quieres",
+        "paso4": "¡Listo! No toques nada más"
+    },
+    
+    "exchange": {
+        "_que_es": "Aquí van tus claves de Bitget",
+        "api_key": "TU_API_KEY_AQUI",
+        "secret_key": "TU_SECRET_KEY_AQUI", 
+        "passphrase": "TU_PASSPHRASE_AQUI"
+    },
+    
+    "trading": {
+        "_que_es": "Configuración básica de trading",
+        "capital_inicial": 30,
+        "_comentario_capital": "Mínimo 30€, recomendado 100-500€",
+        
+        "agresividad": 5,
+        "_comentario_agresividad": "1=muy conservador, 10=muy agresivo",
+        
+        "objetivo": 10000000,
+        "_comentario_objetivo": "Meta: 10 millones (se ajusta sola)"
+    },
+    
+    "configuracion_facil": {
+        "modo_principiante": true,
+        "proteccion_perdidas": true,
+        "notificaciones": true,
+        "idioma": "español"
+    }
+}

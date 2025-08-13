@@ -1,0 +1,177 @@
+{
+    "app_info": {
+        "name": "ZEROX",
+        "version": "1.0.0",
+        "description": "Sistema de Trading Automatizado con IA"
+    },
+    
+    "exchange": {
+        "name": "bitget",
+        "api_key": "TU_API_KEY_AQUI",
+        "secret_key": "TU_SECRET_KEY_AQUI",
+        "passphrase": "TU_PASSPHRASE_AQUI",
+        "testnet": false,
+        "timeout": 30000,
+        "rateLimit": 50
+    },
+    
+    "trading": {
+        "initial_capital": 30,
+        "target_capital": 200,
+        "currency": "USDT",
+        "trading_pairs": ["BTC/USDT", "ETH/USDT", "BNB/USDT"],
+        "risk_per_trade": 2,
+        "max_daily_trades": 20,
+        "stop_loss": 5,
+        "take_profit": 10,
+        "trailing_stop": true,
+        "leverage": 1,
+        "ai_aggressiveness": 5,
+        "min_trade_amount": 10
+    },
+    
+    "ai_settings": {
+        "model_type": "hybrid",
+        "learning_rate": 0.001,
+        "update_frequency": "daily",
+        "backtesting_period": 365,
+        "confidence_threshold": 0.75,
+        "sentiment_weight": 0.3,
+        "technical_weight": 0.5,
+        "fundamental_weight": 0.2,
+        "max_memory_days": 90,
+        "reinforcement_learning": true
+    },
+    
+    "indicators": {
+        "rsi": {
+            "enabled": true,
+            "period": 14,
+            "overbought": 70,
+            "oversold": 30
+        },
+        "macd": {
+            "enabled": true,
+            "fast": 12,
+            "slow": 26,
+            "signal": 9
+        },
+        "bollinger_bands": {
+            "enabled": true,
+            "period": 20,
+            "std_dev": 2
+        },
+        "ema": {
+            "enabled": true,
+            "periods": [9, 21, 50, 200]
+        },
+        "fibonacci": {
+            "enabled": true,
+            "levels": [0.236, 0.382, 0.5, 0.618, 0.786]
+        },
+        "volume": {
+            "enabled": true,
+            "vwap": true,
+            "obv": true
+        }
+    },
+    
+    "risk_management": {
+        "max_drawdown": 20,
+        "daily_loss_limit": 10,
+        "position_sizing": "kelly",
+        "diversification": true,
+        "max_positions": 3,
+        "correlation_check": true,
+        "emergency_stop": 30,
+        "risk_reward_ratio": 2
+    },
+    
+    "data_sources": {
+        "price_data": ["bitget", "binance", "coingecko"],
+        "news_sources": ["cryptopanic", "coindesk", "cointelegraph"],
+        "social_media": ["twitter", "reddit", "telegram"],
+        "on_chain": ["glassnode", "santiment"],
+        "update_interval": 60
+    },
+    
+    "ui_settings": {
+        "theme": "dark",
+        "language": "es",
+        "chart_style": "candlestick",
+        "refresh_rate": 1000,
+        "show_notifications": true,
+        "sound_alerts": true,
+        "auto_hide_panels": false,
+        "transparency": 0.95
+    },
+    
+    "logging": {
+        "level": "INFO",
+        "file_rotation": "daily",
+        "max_files": 30,
+        "console_output": true,
+        "trade_history": true,
+        "performance_metrics": true,
+        "error_reporting": true
+    },
+    
+    "security": {
+        "encrypt_keys": true,
+        "two_factor": false,
+        "ip_whitelist": [],
+        "session_timeout": 3600,
+        "auto_lock": true,
+        "stealth_mode": false
+    },
+    
+    "notifications": {
+        "email": {
+            "enabled": false,
+            "address": "",
+            "smtp_server": "",
+            "smtp_port": 587
+        },
+        "telegram": {
+            "enabled": false,
+            "bot_token": "",
+            "chat_id": ""
+        },
+        "discord": {
+            "enabled": false,
+            "webhook_url": ""
+        }
+    },
+    
+    "advanced": {
+        "multi_timeframe": true,
+        "timeframes": ["1m", "5m", "15m", "1h", "4h", "1d"],
+        "market_hours": "24/7",
+        "slippage_tolerance": 0.5,
+        "order_types": ["market", "limit", "stop"],
+        "partial_fills": true,
+        "iceberg_orders": false,
+        "arbitrage": false,
+        "grid_trading": true,
+        "dca_enabled": true
+    },
+    
+    "performance_goals": {
+        "daily_target": 2,
+        "weekly_target": 10,
+        "monthly_target": 40,
+        "yearly_target": 500,
+        "compound_profits": true,
+        "reinvest_percentage": 80
+    },
+    
+    "maintenance": {
+        "auto_update": true,
+        "backup_frequency": "daily",
+        "health_check_interval": 300,
+        "restart_on_error": true,
+        "max_retries": 3,
+        "cleanup_old_data": true,
+        "data_retention_days": 365
+    }
+}
