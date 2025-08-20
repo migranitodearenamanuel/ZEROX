@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+.idea/
+dist/
+build/
+Output/
+data/logs/
+data/models/cache_modelos/
+*.onnx
+*.pt
+*.pth
+*.exe
+*.zip
